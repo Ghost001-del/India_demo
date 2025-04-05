@@ -1,3 +1,4 @@
 # India_demo
-This is my first Git Repository
-Author = Vishwas Kumar
+This is my first Git Repository.
+<br>
+Author - Vishwas Kumar
